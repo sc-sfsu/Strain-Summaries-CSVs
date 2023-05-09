@@ -1,4 +1,4 @@
-﻿Strain,Mutations,Number/ID,Levo Conc.,Date Recorded,Time,Well Number,Well Reading
+﻿Strain,Mutations,Number/ID,Nor Conc.,Date Recorded,Time,Well Number,Well Reading
 BW25113,wt,JOE6970,80 ng/mL,28-Jul,0:00,D4,0.099
 BW25113,d_mdtK::kan,JOE6971,80 ng/mL,28-Jul,0:00,D5,0.1
 BW25113,d_acrAB::kan,JOE6974,80 ng/mL,28-Jul,0:00,D6,0.096
